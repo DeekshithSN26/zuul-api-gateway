@@ -1,6 +1,11 @@
 # zuul-api-gateway
 API Gateway for all the microservices
 
+# prerequisite
+```
+you need have maven to be installed to build the code and also java 11 should be installed 
+```
+
 ## Build Instruction
 ```
 mvn clean install
